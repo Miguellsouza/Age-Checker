@@ -6,7 +6,7 @@ A small front-end web project built with plain HTML, CSS and JavaScript. The use
 
 ## Live Demo
 
-🔗 **[Open the website](ADD-YOUR-LINK-HERE)**
+🔗 **[Open the website](https://miguellsouza.github.io/Age-Checker/)**
 
 ## Features
 
